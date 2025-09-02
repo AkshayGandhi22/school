@@ -1,8 +1,6 @@
-import React from 'react'
-
-function LoginPage() {
+const LoginPage = () => {
   return (
-    <div>LoginPage</div>
+    <div className=''>LoginPage</div>
   )
 }
 
